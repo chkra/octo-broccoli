@@ -1,26 +1,41 @@
-# gh-pages-minima-starter
+## Welcome to GitHub Pages
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site]:
+🚀 🐼
 
-* Frontpage that includes your last blog posts: `_pages/frontpage.md`
-* Archive for all your posts: `_pages/archive.md`
-* About page: `_pages/about.md`
-* Minimum 404 page: `_pages/404.md`
-* Minimum metadata in the `_config.yml`
-* Example CSS change inside `assets/main.scss`
-* Custom footer template `_includes/footer.html`
+yes
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-For more details on how to create content, use Github interface, etc. feel free to browse [the website][web] or the source code here.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
+### Markdown
 
-Enjoy!!
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[gh-site]: https://pages.github.com/
-[jk]: https://jekyllrb.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[gh]: https://help.github.com/en/github/working-with-github-pages
-[gh-settings]: https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
-[web]: https://jsanz.github.io/gh-pages-minima-starter/
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
