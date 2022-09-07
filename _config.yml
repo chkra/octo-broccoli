@@ -1,16 +1,15 @@
-title: to be defined
+title: My blog
 description: My very nice blog
-author: "chkra"
+author: "Jorge Sanz"
 
-#theme: minima
-remote_theme: just-the-docs/just-the-docs
+theme: minima
 
-base_url: /
+base_url: /gh-pages-minima-starter
 
 # Minima social links
-#twitter_username: xurxosanz
-github_username: chkra
-#linkedin_username: jsanz
+twitter_username: xurxosanz
+github_username: jsanz
+linkedin_username: jsanz
 rss: rss
 
 # Minima: show excerpts in the frontpage
