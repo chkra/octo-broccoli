@@ -2,7 +2,8 @@ title: to be defined
 description: My very nice blog
 author: "chkra"
 
-theme: minima
+#theme: minima
+remote_theme: just-the-docs/just-the-docs
 
 base_url: /
 
