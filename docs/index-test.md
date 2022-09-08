@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Markdown kitchen sink
+parent: JTD Documentation
 nav_order: 99
 ---
 

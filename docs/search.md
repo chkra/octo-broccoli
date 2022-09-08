@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Search
+parent: JTD Documentation
 nav_order: 7
 ---
 

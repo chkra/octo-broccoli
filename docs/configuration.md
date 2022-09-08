@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Configuration
+parent: JTD Documentation
 nav_order: 2
 ---
 

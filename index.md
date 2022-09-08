@@ -44,9 +44,9 @@ Octo Broccoli is distributed by an [MIT license](https://github.com/just-the-doc
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+email. All content for this page can be found and discussed via our [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
 
-#### Thank you to the contributors of Just the Docs!
+#### Thank you to the contributors!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -56,8 +56,4 @@ email, or any other method with the owners of this repository before making a ch
 {% endfor %}
 </ul>
 
-### Code of Conduct
 
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
